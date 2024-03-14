@@ -56,3 +56,7 @@ Tips: By following commands instead of above `docker-compose down`, you can keep
 docker-compose rm -fsv pipecd-server
 docker-compose up pipecd-server
 ```
+
+## Acknowledgements
+
+This demo is based on [@kevin-namba](https://github.com/kevin-namba)'s great work [[Add docker compose deployment PR#4139]](https://github.com/pipe-cd/pipecd/pull/4139).
